@@ -9,7 +9,7 @@
 <img src="./images/mobile.png" alt="">
 
 ### Links
-- Live Site URL: [Netlify](https://notifications-page-frontend-mentor.netlify.app/)
+- Live Site URL: [Netlify](https://api-random-joke-generator.netlify.app/)
 
 ### Author
 
