@@ -1,4 +1,4 @@
-# Random Joke Generator
+# Random Quote Generator
 
 ## Screenshots
 
@@ -9,7 +9,7 @@
 <img src="./images/mobile.png" alt="">
 
 ### Links
-- Live Site URL: [Netlify](https://api-random-joke-generator.netlify.app/)
+- Live Site URL: [Netlify](https://api-random-quote-generator.netlify.app/)
 
 ### Author
 

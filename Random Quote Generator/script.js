@@ -12,6 +12,14 @@ let getQuote = () => {
             quote.innerText = data.content;
             author.innerText = data.author;
         })
+        .then(
+            quote.classList.remove("smooth"),
+            author.classList.remove("smooth")  
+        )
+        .then(setTimeout(() => {
+            quote.classList.add("smooth")
+            author.classList.add("smooth")
+        }, 300))
 }
 
 btn.addEventListener("click", getQuote);
