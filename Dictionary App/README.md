@@ -1,4 +1,4 @@
-# Random Quote Generator
+# Dictionary App
 
 ## Screenshots
 
