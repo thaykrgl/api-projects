@@ -9,7 +9,7 @@
 <img src="./images/mobile.png" alt="">
 
 ### Links
-- Live Site URL: [Netlify](https://api-random-quote-generator.netlify.app/)
+- Live Site URL: [Netlify](https://api-dictionary-app.netlify.app/)
 
 ### Author
 
