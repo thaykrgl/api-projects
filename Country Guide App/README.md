@@ -9,7 +9,7 @@
 <img src="./images/mobile.png" alt="">
 
 ### Links
-- Live Site URL: [Netlify](https://api-dictionary-app.netlify.app/)
+- Live Site URL: [Netlify](https://api-country-guide-app.netlify.app/)
 
 ### Author
 
