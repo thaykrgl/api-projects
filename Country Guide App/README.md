@@ -1,4 +1,4 @@
-# Dictionary App
+# Country Guide App
 
 ## Screenshots
 
